@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://bodycowasung.github.io/sitemap.xml
